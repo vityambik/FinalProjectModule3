@@ -1,0 +1,6 @@
+.option {
+    color: aqua;
+}
+.option:hover {
+    color: blueviolet;
+}
